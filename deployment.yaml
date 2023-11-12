@@ -20,5 +20,5 @@ spec:
           ports:
            - containerPort: 80
       imagePullSecrets:
-        - name: nexus-repo-secret
+        - name: acr-repo-secret
      
