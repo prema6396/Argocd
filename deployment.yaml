@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: javagradleproject
-          image: graglecont.azurecr.io/prema6396/javanewproject:131
+          image: graglecont.azurecr.io/prema6396/javanewproject:132
           ports:
            - containerPort: 80
       imagePullSecrets:
